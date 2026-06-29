@@ -1,4 +1,4 @@
-// VexylClient API - Deno Deploy + Deno KV
+// VexylClient API - Deno Deploy + Deno KV v1.1
 const kv = await Deno.openKv();
 const API_URL = "https://vexyl-api-x4aw106ty0hk.vexylclient.deno.net";
 
